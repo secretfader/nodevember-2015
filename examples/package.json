@@ -1,0 +1,19 @@
+{
+  "name": "nodevember-2015-examples",
+  "version": "1.0.0",
+  "description": "Examples for my 2015 Nodevember talk, \"Callback-less Asynchrony.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicholas Young <nicholas@nicholaswyoung.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^1.1.2",
+    "koa-logger": "^1.3.0",
+    "koa-router": "^5.2.3",
+    "node-fetch": "^1.3.3",
+    "request": "^2.65.0",
+    "yargs": "^3.29.0"
+  }
+}
